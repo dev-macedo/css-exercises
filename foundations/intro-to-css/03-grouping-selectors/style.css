@@ -4,3 +4,7 @@ button{
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
+.blackbtn{
+    color: white;
+    background-color: black;
+}
