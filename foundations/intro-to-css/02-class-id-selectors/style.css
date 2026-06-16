@@ -1,4 +1,14 @@
 .odd{
     background-color: lightcoral;
     font-family: "Verdana", "DeJavu Sans", sans-serif;
+    
+}
+
+.bigodd{
+    font-size: calc(24/16 * 1rem);
+}
+
+#div2{
+    color: blue;
+    font-size: calc(36/16 * 1rem);
 }
